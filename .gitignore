@@ -1,0 +1,12 @@
+*
+!*/
+
+!.gitignore
+!winhttp.dll
+!doorstop_config.ini
+!BepInEx**
+
+BepInEx/cache
+BepInEx/*.log
+
+Thumbs.db
